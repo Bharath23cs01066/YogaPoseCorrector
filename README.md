@@ -1,17 +1,5 @@
 # Flexcellent - Yoga Pose Corrector Application
 
-## 🎥 Demo
-
-Watch the demo of Flexcellent in action below:
-
-<a href="https://www.youtube.com/watch?v=Fx4bIN0dZ-4" target="_blank">
-  <img src="https://img.youtube.com/vi/Fx4bIN0dZ-4/0.jpg" alt="Flexcellent Demo" />
-</a>
-
-> Click the image above or <a href="https://www.youtube.com/watch?v=Fx4bIN0dZ-4" target="_blank">watch on YouTube</a>
-
----
-
 ## Overview
 
 **Yoga Pose Corrector** is a computer vision-based application that detects yoga poses in real-time and provides instant feedback on the correctness of the posture. Using OpenCV and machine learning, the app identifies key pose landmarks and compares them against ideal reference poses, helping users correct their yoga postures efficiently. The project also includes audio feedback for hands-free usage, making it user-friendly for home workouts.
